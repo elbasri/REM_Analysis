@@ -49,7 +49,7 @@ Le projet est également disponible sur Kaggle, où vous pouvez explorer le note
 
 1. **Cloner le Dépôt** : Utilisez la commande suivante pour cloner le dépôt :
    ```
-   git clone 
+   git clone https://github.com/elbasri/REM_Analysis.git
    ```
 2. **Installer les Dépendances** : Assurez-vous d'avoir Python 3.x installé, ainsi que Pandas, NumPy, Seaborn et Matplotlib. Ces bibliothèques peuvent être installées via pip :
    ```
