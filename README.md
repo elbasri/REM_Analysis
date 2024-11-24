@@ -68,7 +68,7 @@ Une courte vidéo (5 minutes) expliquant le projet est disponible pour fournir u
 
 ## Notebook Kaggle
 
-Le projet est également disponible sur Kaggle, où vous pouvez explorer le notebook et interagir avec les données. Le notebook Kaggle est accessible ....
+Le projet est également disponible sur Kaggle, où vous pouvez explorer le notebook et interagir avec les données. Le notebook Kaggle est accessible https://www.kaggle.com/code/nacernacer/real-estate-market-analysis-project 
 
 ## Comment Utiliser ce Dépôt
 
@@ -80,7 +80,7 @@ Le projet est également disponible sur Kaggle, où vous pouvez explorer le note
    ```
    pip install pandas numpy seaborn matplotlib
    ```
-3. **Exécuter le Notebook** : Vous pouvez ouvrir et exécuter le notebook Jupyter en utilisant n'importe quel environnement compatible avec Jupyter, tel que Jupyter Notebook, JupyterLab ou Google Colab.
+3. **Exécuter le Notebook** : Vous pouvez ouvrir et exécuter le notebook Jupyter en utilisant n'importe quel environnement compatible avec Jupyter, tel que Jupyter Notebook, JupyterLab ou Google Colab. sinon vous pouvez utiliser le kaggle notebook pour creer votre (https://www.kaggle.com/code/nacernacer/real-estate-market-analysis-project)
 
 
 ## Références
