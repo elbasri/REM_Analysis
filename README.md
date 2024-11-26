@@ -51,14 +51,9 @@ Le projet comprend les étapes clés suivantes :
      Le graphique ci-dessus montre que les revenus fluctuent de manière significative selon le type de bâtiment, certaines années affichant des pics marqués pour certains types de bâtiments. Cela peut indiquer des événements économiques spécifiques ou des variations dans la demande du marché.
 
 
-## Certification
-
-Dans le cadre des exigences du projet, un examen de certification associé a été réussi. Le certificat peut être trouvé dans ce dépôt.
-
 ## Vidéo Explicative
 
-Une vidéo de démonstration expliquant le projet est disponible
-[![Watch the video](images/videoCover.png)](https://drive.google.com/file/d/1UEgGvjnuhrchRZpOys3xLW6dEipQznNW/view?usp=sharing)
+[![Voire le video](images/videoCover.png)](https://drive.google.com/file/d/1UEgGvjnuhrchRZpOys3xLW6dEipQznNW/view?usp=sharing)
 
 
 ## Notebook Kaggle
