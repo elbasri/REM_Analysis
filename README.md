@@ -57,7 +57,8 @@ Dans le cadre des exigences du projet, un examen de certification associé a ét
 
 ## Vidéo Explicative
 
-Une vidéo de démonstration expliquant le projet est disponible [ici](https://docs.google.com/document/d/1OizDmup9EsFcw8WZGEYT9biMUNgviCNw4K5Fcq-kQu0/edit?usp=sharing).
+Une vidéo de démonstration expliquant le projet est disponible
+[![Watch the video](images/videoCover.png)](https://drive.google.com/file/d/1UEgGvjnuhrchRZpOys3xLW6dEipQznNW/view?usp=sharing)
 
 
 ## Notebook Kaggle
