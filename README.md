@@ -57,14 +57,8 @@ Dans le cadre des exigences du projet, un examen de certification associé a ét
 
 ## Vidéo Explicative
 
-Une courte vidéo (5 minutes) expliquant le projet est disponible pour fournir une vue d'ensemble de l'approche, de la méthodologie et des conclusions. La vidéo vise à guider les spectateurs à travers les aspects clés du projet, du chargement des données aux conclusions tirées des visualisations.
+Une vidéo de démonstration expliquant le projet est disponible [ici](https://docs.google.com/document/d/1OizDmup9EsFcw8WZGEYT9biMUNgviCNw4K5Fcq-kQu0/edit?usp=sharing).
 
-## Fichiers dans ce Dépôt
-
-- **Fichier Notebook** : L'analyse principale, le nettoyage et les visualisations sont contenus dans le notebook Jupyter, qui détaille chaque étape du projet.
-- **Certification** : La certification de complétion de ce projet est incluse.
-- **README.md** : Ce fichier, fournissant une vue d'ensemble complète du projet.
-- **Vidéo Explicative** : Un fichier vidéo qui présente l'analyse.
 
 ## Notebook Kaggle
 
